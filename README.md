@@ -41,4 +41,4 @@ Diseñado especialmente para consultores, analistas funcionales, usuarios clave 
 ### Opción 1: Abrir localmente
 1. Clona este repositorio o descarga el código:
    ```bash
-   git clone [https://github.com/tu-usuario/buscador-transacciones-sap.git](https://github.com/tu-usuario/buscador-transacciones-sap.git)
+  git clone [https://github.com/tu-usuario/buscador-transacciones-sap.git](https://github.com/tu-usuario/buscador-transacciones-sap.git)
